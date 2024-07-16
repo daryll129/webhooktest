@@ -1,1 +1,1 @@
-sh echo 'Hello there'
+echo 'Hello there'
