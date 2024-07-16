@@ -1,2 +1,2 @@
-    sh 'echo "Building..."'
-    sh 'ls -al'
+    'echo "Building..."'
+    'ls -al'
